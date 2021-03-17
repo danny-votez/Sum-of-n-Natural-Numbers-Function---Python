@@ -1,2 +1,2 @@
-# Sum-of-n-Natural-Numbers-Function---Python
-In this function, there is computing the sum of n natural numbers, and needs user input
+# This program works by taking Voltage and current and returning teh calculated power
+# Note that to get Power, the formular is Voltage / current
